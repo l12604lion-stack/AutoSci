@@ -52,7 +52,7 @@ Output a trajectory plot
  Web App version – run experiments right from the browser
 
 ⚡ Quick Start
-git clone https://github.com/flower/AutoSci.git
+git clone [https://github.com/flower/AutoSci.git](https://github.com/l12604lion-stack/AutoSci)
 cd AutoSci
 python demo.py
 
