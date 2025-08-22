@@ -4,6 +4,8 @@ AI for Automated Science Experiments
 
 “Turn any idea into an experiment, instantly.”
 
+Yes, there are similar efforts (Curie, CodeScientist), but AutoSci is the first to offer a user flow that lets you ‘input theory → auto generate simulation code → run experiment → get report’, all via AI—making it a truly seamless ‘theory-to-experiment’ pipeline.
+
 💡 Vision
 
 Modern science wastes too much time on repetitive simulations, boilerplate coding, and data wrangling. AutoSci aims to let AI handle the grunt work so that researchers, students, and even curious hobbyists can:
