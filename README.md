@@ -58,7 +58,7 @@ python demo.py
 
 📸 Example (Demo Preview)
 
-(Trajectory plot image/GIF goes here)
+![Trajectory Demo](trajectory.png)
 
 🤝 Contributing
 
